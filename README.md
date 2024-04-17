@@ -42,7 +42,7 @@
 
 ###
 
-
+<p align="center">⚡ Social networks ⚡</p>
 ###
 
 <div align="center">
@@ -65,7 +65,6 @@
 
 ###
 
-<p align="center">🔥 GitHub Stats 🔥</p>
 
 ###
 
